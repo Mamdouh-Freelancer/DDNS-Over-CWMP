@@ -1,5 +1,5 @@
 # DDNS-Over-CWMP
-First DDNS client for home routers using CWMP running out of the box on Google Script.
+First DDNS client for old routers using CWMP running out of the box on Google Script.
 
 Your router has no DDNS feature? 
 
