@@ -1,6 +1,11 @@
 # DDNS-Over-CWMP
 First DDNS client for old routers using CWMP running out of the box on Google Script.
 
+# Disclaimer
+Reusing your old router is not good idea because it may has security issues or firmware bugs. So use it at your own risk. and my code is tested and working with 12 years old routers with no need for any firmware changes and advanced users only considered to use such feature and BTW if you messed up with some settings you will need to reset the router to it's default again.
+
+# Why DDNS-Over-CWMP?
+
 Your router has no DDNS feature? 
 
 Your router has only tzo.com whitch no longer available?
